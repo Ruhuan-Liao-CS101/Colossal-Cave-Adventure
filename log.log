@@ -1,0 +1,33 @@
+12-01@07:59:01 DEBUG (entity.DragonThing.java:8)     - I am a dragon thing...
+12-01@10:31:53 INFO  (Location.java:142)     - gimmie a good monster name: 
+12-01@10:32:03 DEBUG (Location.java:155)     - Random Monster is :TROLL
+12-01@10:32:03 ERROR (Location.java:160)     - Monster problem...no monsters
+12-01@10:41:24 INFO  (Location.java:142)     - gimmie a good monster name: 
+12-01@10:46:31 INFO  (Location.java:142)     - gimmie a good monster name: 
+12-01@10:46:35 DEBUG (Location.java:153)     - Random Monster is :CYCLOPS
+12-01@10:46:35 DEBUG ( Monster.java:25)     - I am a generic monster
+12-01@10:46:35 DEBUG ( Cyclops.java:10)     - Crazy eye laser rays...   who knew?
+12-01@10:46:35 INFO  ( Monster.java:45)     - util.User score: 10
+12-01@10:46:35 INFO  ( Monster.java:46)     - entity.Monster score: 5
+12-01@10:46:35 INFO  ( Monster.java:53)     - util.User Wins!
+12-01@10:50:00 INFO  (Location.java:142)     - gimmie a good monster name: 
+12-01@10:50:04 DEBUG (Location.java:153)     - The monster is :CYCLOPS
+12-01@10:50:04 DEBUG ( Monster.java:25)     - I am a generic monster
+12-01@10:50:04 DEBUG ( Cyclops.java:10)     - Crazy eye laser rays...   who knew?
+12-01@10:50:04 INFO  ( Monster.java:45)     - util.User score: 8
+12-01@10:50:04 INFO  ( Monster.java:46)     - Monster score: 9
+12-01@10:50:04 INFO  ( Monster.java:50)     - Monster Wins!
+12-01@15:49:27 INFO  (Location.java:141)     - gimmie a good monster name: 
+12-01@15:49:37 DEBUG (Location.java:152)     - The monster is :MINITOUR
+12-01@15:49:37 DEBUG ( Monster.java:25)     - I am a generic monster
+12-01@15:49:37 DEBUG (Minitour.java:10)     - shoot beam of light
+12-01@15:49:37 INFO  ( Monster.java:45)     - User score: 4
+12-01@15:49:37 INFO  ( Monster.java:46)     - Monster score: 3
+12-01@15:49:37 INFO  ( Monster.java:53)     - User Wins!
+12-02@15:59:46 INFO  (Location.java:141)     - gimmie a good monster name: 
+12-02@15:59:59 DEBUG (Location.java:152)     - The monster is :TROLL
+12-02@15:59:59 DEBUG ( Monster.java:25)     - I am a generic monster
+12-02@15:59:59 DEBUG (   Troll.java:10)     - shoot beam of light?
+12-02@15:59:59 INFO  ( Monster.java:45)     - User score: 9
+12-02@15:59:59 INFO  ( Monster.java:46)     - Monster score: 7
+12-02@15:59:59 INFO  ( Monster.java:53)     - User Wins!
